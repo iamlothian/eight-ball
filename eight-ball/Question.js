@@ -1,0 +1,3 @@
+Question = function Question (argument) {
+  // body...
+}
