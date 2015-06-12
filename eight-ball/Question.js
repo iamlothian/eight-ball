@@ -1,3 +1,6 @@
-Question = function Question (argument) {
+/**
+
+**/
+Question = function Question () {
   // body...
 }
