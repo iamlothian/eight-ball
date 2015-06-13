@@ -1,4 +1,9 @@
 /* CSS declarations go here */
+
+* {
+	box-sizing: border-box;
+}
+
 html {
 	background-color: #833898;
 }
