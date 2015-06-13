@@ -5,5 +5,14 @@
 }
 
 html {
-	background-color: #833898;
+	background-image: -moz-linear-gradient( 90deg, rgb(100,3,146) 0%, rgb(157,8,227) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(100,3,146) 0%, rgb(157,8,227) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(100,3,146) 0%, rgb(157,8,227) 100%);
+	background-size: cover;
+	color:#EEE;
+	height: 100%;
+}
+
+a {
+	color:#EEE;
 }
